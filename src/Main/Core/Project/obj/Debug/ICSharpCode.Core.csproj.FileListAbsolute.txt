@@ -1,0 +1,12 @@
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.xml
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.dll
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.pdb
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.dll
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.pdb
+E:\Program\c#\下载的项目\SharpDevelop5\bin\ICSharpCode.Core.xml
+E:\Program\c#\下载的项目\SharpDevelop5\bin\ICSharpCode.Core.dll
+E:\Program\c#\下载的项目\SharpDevelop5\bin\ICSharpCode.Core.pdb
+E:\Program\c#\下载的项目\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\下载的项目\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.dll
+E:\Program\c#\下载的项目\SharpDevelop5\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.pdb

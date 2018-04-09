@@ -1,0 +1,11 @@
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\CppBinding\CppBinding.addin
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\CppBinding\CppBinding.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\ApplicationOptions.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\LinkerOptions.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\PreprocessorOptions.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\ApplicationOptions.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\LinkerOptions.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\Project\PreprocessorOptions.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\CppBinding_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\CppBinding.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\CppBinding\CppBinding\obj\Release\CppBinding.dll

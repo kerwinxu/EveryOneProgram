@@ -1,0 +1,6 @@
+E:\Program\c#\SharpDevelop5\bin\SharpDevelop.TargetingPack.targets
+E:\Program\c#\SharpDevelop5\bin\SharpDevelop.CodeAnalysis.targets
+E:\Program\c#\SharpDevelop5\bin\SharpDevelop.CheckMSBuild35Features.targets
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Build.Tasks.dll
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Release\ICSharpCode.Build.Tasks.dll

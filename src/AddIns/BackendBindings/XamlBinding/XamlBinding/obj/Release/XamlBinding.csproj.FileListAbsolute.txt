@@ -1,0 +1,11 @@
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\XamlBinding\XamlBinding.addin
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\XamlBinding\ICSharpCode.XamlBinding.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\XamlBinding.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\XamlOutlineContentHost.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\Options\CodeCompletion.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\XamlOutlineContentHost.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\ICSharpCode.XamlBinding_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\ICSharpCode.XamlBinding_MarkupCompile.lref
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\Options\CodeCompletion.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\ICSharpCode.XamlBinding.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\XamlBinding\XamlBinding\obj\Release\ICSharpCode.XamlBinding.dll

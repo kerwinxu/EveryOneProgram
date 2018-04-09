@@ -1,0 +1,4 @@
+E:\Program\c#\SharpDevelop5\AddIns\Misc\UsageDataCollector\UsageDataCollector.xml
+E:\Program\c#\SharpDevelop5\AddIns\Misc\UsageDataCollector\UsageDataCollector.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Release\UsageDataCollector.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Release\UsageDataCollector.dll

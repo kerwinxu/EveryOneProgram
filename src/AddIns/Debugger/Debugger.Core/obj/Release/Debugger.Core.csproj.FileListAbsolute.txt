@@ -1,0 +1,5 @@
+E:\Program\c#\SharpDevelop5\AddIns\Debugger\Debugger.Core.dll
+E:\Program\c#\SharpDevelop5\AddIns\Debugger\Debugger.Core.pdb
+E:\Program\c#\SharpDevelop5\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Debugger\Debugger.Core\obj\Release\Debugger.Core.pdb

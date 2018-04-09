@@ -1,0 +1,6 @@
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.WinForms.dll
+E:\Program\c#\SharpDevelop5\src\Main\ICSharpCode.Core.WinForms\obj\Release\ICSharpCode.Core.WinForms.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Main\ICSharpCode.Core.WinForms\obj\Release\ICSharpCode.Core.WinForms.dll
+E:\Program\c#\EveryOneProgram\bin\ICSharpCode.Core.WinForms.dll
+E:\Program\c#\EveryOneProgram\src\Main\ICSharpCode.Core.WinForms\obj\Release\ICSharpCode.Core.WinForms.csprojResolveAssemblyReference.cache
+E:\Program\c#\EveryOneProgram\src\Main\ICSharpCode.Core.WinForms\obj\Release\ICSharpCode.Core.WinForms.dll

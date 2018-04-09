@@ -1,0 +1,12 @@
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.xml
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.dll
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.Core.pdb
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Release\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Release\ICSharpCode.Core.dll
+E:\Program\c#\SharpDevelop5\src\Main\Core\Project\obj\Release\ICSharpCode.Core.pdb
+E:\Program\c#\EveryOneProgram\bin\ICSharpCode.Core.xml
+E:\Program\c#\EveryOneProgram\bin\ICSharpCode.Core.dll
+E:\Program\c#\EveryOneProgram\bin\ICSharpCode.Core.pdb
+E:\Program\c#\EveryOneProgram\src\Main\Core\Project\obj\Release\ICSharpCode.Core.csprojResolveAssemblyReference.cache
+E:\Program\c#\EveryOneProgram\src\Main\Core\Project\obj\Release\ICSharpCode.Core.dll
+E:\Program\c#\EveryOneProgram\src\Main\Core\Project\obj\Release\ICSharpCode.Core.pdb

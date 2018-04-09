@@ -1,0 +1,10 @@
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.TreeView.dll
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.TreeView.pdb
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.lref
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\Themes\Generic.baml
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.g.resources
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.dll
+E:\Program\c#\SharpDevelop5\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.pdb

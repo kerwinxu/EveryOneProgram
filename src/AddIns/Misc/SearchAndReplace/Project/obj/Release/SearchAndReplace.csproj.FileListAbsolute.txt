@@ -1,0 +1,7 @@
+E:\Program\c#\SharpDevelop5\AddIns\Misc\SearchAndReplace\SearchAndReplace.addin
+E:\Program\c#\SharpDevelop5\AddIns\Misc\SearchAndReplace\SearchAndReplace.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\Gui\ResultsTreeView.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\Gui\ResultsTreeView.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\SearchAndReplace_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\SearchAndReplace.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\SearchAndReplace\Project\obj\Release\SearchAndReplace.dll

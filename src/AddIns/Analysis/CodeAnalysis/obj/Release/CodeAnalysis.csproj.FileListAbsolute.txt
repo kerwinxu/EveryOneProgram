@@ -1,0 +1,11 @@
+E:\Program\c#\SharpDevelop5\AddIns\Analysis\CodeAnalysis\CodeAnalysis.addin
+E:\Program\c#\SharpDevelop5\AddIns\Analysis\CodeAnalysis\CodeAnalysis.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisProjectOptionsPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis_MarkupCompile.lref
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\Src\AnalysisProjectOptionsPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\CodeAnalysis\obj\Release\CodeAnalysis.dll

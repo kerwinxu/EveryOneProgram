@@ -1,0 +1,10 @@
+E:\Program\c#\SharpDevelop5\AddIns\Analysis\SourceAnalysis\SharpDevelop.SourceAnalysis.targets
+E:\Program\c#\SharpDevelop5\AddIns\Analysis\SourceAnalysis\SourceAnalysis.addin
+E:\Program\c#\SharpDevelop5\AddIns\Analysis\SourceAnalysis\SourceAnalysis.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\Src\AnalysisOptionsPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\Src\AnalysisIdeOptionsPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\Src\AnalysisOptionsPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\SourceAnalysis_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\SourceAnalysis.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\Analysis\SourceAnalysis\obj\Release\SourceAnalysis.dll

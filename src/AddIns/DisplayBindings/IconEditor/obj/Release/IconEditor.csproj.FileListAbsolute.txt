@@ -1,0 +1,6 @@
+E:\Program\c#\SharpDevelop5\AddIns\DisplayBindings\IconEditor\IconEditor.addin
+E:\Program\c#\SharpDevelop5\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditor.dll
+E:\Program\c#\SharpDevelop5\AddIns\DisplayBindings\IconEditor\ICSharpCode.IconEditor.pdb
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\IconEditor\obj\Release\IconEditor.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\IconEditor\obj\Release\ICSharpCode.IconEditor.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\IconEditor\obj\Release\ICSharpCode.IconEditor.pdb

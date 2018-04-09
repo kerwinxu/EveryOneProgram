@@ -1,0 +1,5 @@
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Decompiler\bin\Release\ICSharpCode.Decompiler.dll
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Decompiler\bin\Release\ICSharpCode.Decompiler.pdb
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Decompiler\obj\Release\ICSharpCode.Decompiler.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Decompiler\obj\Release\ICSharpCode.Decompiler.dll
+E:\Program\c#\SharpDevelop5\src\Libraries\ICSharpCode.Decompiler\obj\Release\ICSharpCode.Decompiler.pdb

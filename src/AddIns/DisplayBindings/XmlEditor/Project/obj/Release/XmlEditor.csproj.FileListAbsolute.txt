@@ -1,0 +1,12 @@
+E:\Program\c#\SharpDevelop5\AddIns\DisplayBindings\XmlEditor\XmlEditor.addin
+E:\Program\c#\SharpDevelop5\AddIns\DisplayBindings\XmlEditor\XmlEditor.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\XmlEditor.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\SelectXmlSchemaWindow.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\XmlEditorOptionsPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\XmlSchemasPanel.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\SelectXmlSchemaWindow.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\XmlEditorOptionsPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\Src\XmlSchemasPanel.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\XmlEditor_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\XmlEditor.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Release\XmlEditor.dll

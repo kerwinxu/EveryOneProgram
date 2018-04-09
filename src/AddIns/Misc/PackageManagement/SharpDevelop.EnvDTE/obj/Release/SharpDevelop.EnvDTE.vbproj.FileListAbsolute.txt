@@ -1,0 +1,2 @@
+E:\Program\c#\SharpDevelop5\bin\SharpDevelop.EnvDTE.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Release\SharpDevelop.EnvDTE.dll

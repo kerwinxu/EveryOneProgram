@@ -1,0 +1,4 @@
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.SharpDevelop.BuildWorker120.exe.config
+E:\Program\c#\SharpDevelop5\bin\ICSharpCode.SharpDevelop.BuildWorker120.exe
+E:\Program\c#\SharpDevelop5\src\Main\ICSharpCode.SharpDevelop.BuildWorker120\obj\Release\ICSharpCode.SharpDevelop.BuildWorker120.csprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\Main\ICSharpCode.SharpDevelop.BuildWorker120\obj\Release\ICSharpCode.SharpDevelop.BuildWorker120.exe

@@ -1,0 +1,9 @@
+E:\Program\c#\SharpDevelop5\AddIns\Misc\StartPage\StartPage.addin
+E:\Program\c#\SharpDevelop5\AddIns\Misc\StartPage\StartPage.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\Src\RecentProjectsControl.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\Src\StartPageControl.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\Src\RecentProjectsControl.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\Src\StartPageControl.g.cs
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\StartPage_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\StartPage.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\Misc\StartPage\Project\obj\Release\StartPage.dll

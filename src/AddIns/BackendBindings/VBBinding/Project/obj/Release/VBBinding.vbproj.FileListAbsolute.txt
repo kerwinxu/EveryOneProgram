@@ -1,0 +1,8 @@
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\VBBinding\VBBinding.addin
+E:\Program\c#\SharpDevelop5\AddIns\BackendBindings\VBBinding\ICSharpCode.VBBinding.dll
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\VBBinding.vbprojResolveAssemblyReference.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\OptionPanels\BuildOptions.baml
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\OptionPanels\BuildOptions.g.vb
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\ICSharpCode.VBBinding_MarkupCompile.cache
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\ICSharpCode.VBBinding.g.resources
+E:\Program\c#\SharpDevelop5\src\AddIns\BackendBindings\VBBinding\Project\obj\Release\ICSharpCode.VBBinding.dll
